@@ -3,8 +3,8 @@ import React from "react";
 function Transaction() {
   return (
     <tr>
-      <td>{"your code here..."}</td>
-      <td>{"your code here..."}</td>
+      <td>{"your code here...yes"}</td>
+      <td>{"your code here...yeah"}</td>
       <td>{"your code here..."}</td>
       <td>{"your code here..."}</td>
     </tr>
