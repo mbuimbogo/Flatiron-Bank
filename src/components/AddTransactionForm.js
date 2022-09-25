@@ -24,7 +24,7 @@ fetch("http://localhost:8001/transactions",{
   }, 
  body:JSON.stringify(formData)
 })
-.then((res)=> res.json())
+.then((result)=> result.json())
 .then((data) => {
   const newTransactionData = [...transactions, data]
   setTransactions(newTransactionData)
