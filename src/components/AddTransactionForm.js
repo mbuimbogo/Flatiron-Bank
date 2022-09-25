@@ -9,6 +9,7 @@ function AddTransactionForm({transactions, setTransactions}) {
  })
 
  function handleOnChange(e){
+  // name is the KEY in the formData object that we are trying to update
   let name = e.target.name
   let value = e.target.value
   setFormData({
