@@ -83,6 +83,48 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "",
+      "description": "123",
+      "category": "haiya",
+      "amount": "55",
+      "id": 33
+    },
+    {
+      "date": "",
+      "description": "move",
+      "category": "haiya",
+      "amount": "200",
+      "id": 44
+    },
+    {
+      "date": "",
+      "description": "eating good",
+      "category": "uwee",
+      "amount": "123",
+      "id": 45
+    },
+    {
+      "date": "",
+      "description": "eating good",
+      "category": "uwee",
+      "amount": "123",
+      "id": 46
+    },
+    {
+      "date": "",
+      "description": "no joke",
+      "category": "hard life",
+      "amount": "222",
+      "id": 47
+    },
+    {
+      "date": "",
+      "description": "maisha ni numu",
+      "category": "hamna pesa",
+      "amount": "00",
+      "id": 48
     }
   ]
 }
